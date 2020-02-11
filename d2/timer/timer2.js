@@ -1,7 +1,7 @@
 const stdin = process.stdin;
 stdin.setRawMode(true);
 stdin.setEncoding('utf8');
-let numbersArray = [1,2,3,4,5,6,7,8,9]; 
+let numbersArray = ['1','2','3','4','5','6','7','8','9']; 
 
 
 stdin.on('data', (key) => {
