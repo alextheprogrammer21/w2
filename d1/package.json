@@ -1,0 +1,17 @@
+{
+  "name": "d1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "alphabet-generator": "^1.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
