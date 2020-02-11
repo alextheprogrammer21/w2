@@ -7,7 +7,7 @@ let sentence = "hello there from lighthouse labs";
 // let typewrite = (sentence, index) => {
   
 //    setTimeout(() => {
-//      process.stdout.write(sentence[index]);
+//      proces  s.stdout.write(sentence[index]);
 //    }, 1000);
  
 //    if(index === sentence.length -1) {
